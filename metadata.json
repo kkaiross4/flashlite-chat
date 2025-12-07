@@ -1,0 +1,5 @@
+{
+  "name": "Flash Lite Chat",
+  "description": "A lightning-fast AI chat interface powered by Gemini 2.5 Flash Lite for low-latency responses.",
+  "requestFramePermissions": []
+}
